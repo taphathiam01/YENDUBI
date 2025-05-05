@@ -1,0 +1,21 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+db.sqlite3
+
+# Django
+*.log
+staticfiles/
+
+# React
+/frontend/node_modules/
+/frontend/build/
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
