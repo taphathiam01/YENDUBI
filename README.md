@@ -24,6 +24,12 @@ Ce dossier contient le backend de l'application **Yendu Bi**, un système de ges
 - SQLite (en développement) / PostgreSQL (en production)
 
 ---
+# 📁 APP & (Fonction)
+- api (initialisation test)
+- authapp (authentification)
+- userpanel (interface utilisateur)
+
+--- 
 
 ## 📁 Guide d'utilisation
 - Appliquer les migrations et Lancer le serveur

@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'corsheaders',
     'api',
     'authapp',
+    'userpanel',
 ]
 
 MIDDLEWARE = [
